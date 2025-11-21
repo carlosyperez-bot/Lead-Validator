@@ -1,0 +1,5 @@
+{
+  "name": "LeadValidator AI - Call Center Analyzer",
+  "description": "Intelligent analysis tool to audit and recover 'Wrong Number' leads from call center databases using heuristic logic and AI-driven insights.",
+  "requestFramePermissions": []
+}
